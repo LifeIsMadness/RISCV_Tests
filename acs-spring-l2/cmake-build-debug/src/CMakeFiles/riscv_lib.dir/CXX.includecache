@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/BaseTypes.h
+
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/Instruction.cpp
+Instruction.h
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/Instruction.h
+
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/Instruction.h
+optional
+-
+memory
+-
+BaseTypes.h
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/BaseTypes.h
+PoolAllocator.h
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/PoolAllocator.h
+
+/home/madness/Documents/RISCV_Tests/acs-spring-l2/src/PoolAllocator.h
+cstddef
+-
+cstdlib
+-
+

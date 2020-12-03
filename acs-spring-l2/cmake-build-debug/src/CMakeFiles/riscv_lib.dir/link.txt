@@ -1,0 +1,2 @@
+/usr/bin/ar qc libriscv_lib.a  CMakeFiles/riscv_lib.dir/Instruction.cpp.o
+/usr/bin/ranlib libriscv_lib.a
